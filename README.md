@@ -2,9 +2,10 @@
 Projeto desenvolvido por alunos do segundo semestre do curso de análise e desenvolvimento de sistemas da Fatec - SJC, durante o primeiro semestre do ano de 2022.
 
 ## Descrição do Projeto
-Desenvolvimento de uma aplicação desktop para solucionar problemas causados por mensagens de canais diferentes.
-Faremos a unificação das mensagens em uma única base de dados.
-Para apresentação das informações será criado um menu de controle, neste menu terá a opção de cadastrar, alterar, deletar e visualizar as informações referentes as mensagens, usuários e grupos.
+
+Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 2° semestre do curso de Análise e Desenvolvimento de Sistemas da FATEC de São José dos Campos. Esse grupo tem como objetivo desenvolver um projeto (API) para solucionar um problema proposto por um cliente parceiro da instituição.
+
+![Desenvolvimento de uma aplicação desktop para solucionar problemas causados por mensagens de canais diferentes](https://user-images.githubusercontent.com/88494278/162092003-6755af3f-e6b2-49ff-b4ae-6e9923ec3007.jpg)
 
 ## 🎯 Proposta
 **Desenvolver um sistema de armazenamento com os seguintes requisitos:**
