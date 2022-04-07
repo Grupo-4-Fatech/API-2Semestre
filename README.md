@@ -40,7 +40,7 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 2° semestre 
 
  - **Back-end:** Java.
 - **Front-end:** JFrame.
-- **Ferramentas:** Netbeans, Eclipse, Canva, Git, Github, PowerPoint, Microsoft Teams e Discord.
+- **Ferramentas:** Netbeans, Eclipse, Canva, Git, Github, PowerPoint, MySQL, Microsoft Teams e Discord.
 </br>
 
 ## 💡 Metodologia
