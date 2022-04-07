@@ -16,7 +16,7 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 2° semestre 
 > Requisitos Funcionais
 - [ ] Cadastros de Usuários, Clientes e Grupos;
 - [ ] Usuários devem ter perfis diferentes (administrador,suporte, cliente);
-- [ ] Possibilidade de um administrador ou suporte cadastrar mensagens em nome de um cliente e marcar qual meio ela veio (email, whatsapp e etc);
+- [x] Possibilidade de um administrador ou suporte cadastrar mensagens em nome de um cliente e marcar qual meio ela veio (email, whatsapp e etc);
 - [ ] Envio de mensagens individuais para um usuário do sistema;
 - [ ] Envio de mensagens coletivas para os grupos do sistema;
 - [ ] Relatório de pessoas ou grupos a quem mais enviei mensagens.
