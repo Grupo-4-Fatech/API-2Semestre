@@ -48,11 +48,10 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 2° semestre 
 
 
 </br>
-
 ## 💡 Metodologia
 <ul> <li> <strong>Metodologia Ágil: SCRUM </strong> </li> </ul>
 </br>
-![3](https://user-images.githubusercontent.com/88494278/162101441-ff4be0e0-0aa2-4cca-832d-bf0372545819.jpg)
+![3](https://user-images.githubusercontent.com/88494278/162101308-2ef2f26e-ed1a-4592-b872-a14cb8e8803d.jpg)
 
 
 ## 🗒️ Sprints Backlog
