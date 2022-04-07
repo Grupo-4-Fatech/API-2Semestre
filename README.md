@@ -4,10 +4,10 @@ Projeto desenvolvido por alunos do segundo semestre do curso de análise e desen
 ## Descrição do Projeto
 
 Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 2° semestre do curso de Análise e Desenvolvimento de Sistemas da FATEC de São José dos Campos. Esse grupo tem como objetivo desenvolver um projeto (API) para solucionar um problema proposto por um cliente parceiro da instituição.
-
-![Desenvolvimento de uma aplicação desktop para solucionar problemas causados por mensagens de canais diferentes](https://user-images.githubusercontent.com/88494278/162092003-6755af3f-e6b2-49ff-b4ae-6e9923ec3007.jpg)
 <br></br>
+![1](https://user-images.githubusercontent.com/88494278/162094336-79dae834-aef4-4d35-89af-075400e1a3af.png)
 > Status do Projeto: Em Desenvolvimento.
+
 </br>
 
 ## 🎯 Proposta
@@ -41,6 +41,10 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 2° semestre 
  - **Back-end:** Java.
 - **Front-end:** JFrame.
 - **Ferramentas:** Netbeans, Eclipse, Canva, Git, Github, PowerPoint, MySQL, Microsoft Teams e Discord.
+
+![2](https://user-images.githubusercontent.com/88494278/162094456-f1ac170c-9193-46ce-965f-d5e295e0b856.png)
+
+
 </br>
 
 ## 💡 Metodologia
