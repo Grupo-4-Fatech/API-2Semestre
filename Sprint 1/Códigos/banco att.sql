@@ -26,13 +26,11 @@ CREATE TABLE `cadastrar_mensagem` (
   `id_cadastrar_mensagem` int NOT NULL AUTO_INCREMENT,
   `email` varchar(255) NOT NULL,
   `texto` varchar(255) NOT NULL,
-  `idtipo_mensagem` int NOT NULL,
+  `tipo_mensagem` varchar(45) NOT NULL,
   PRIMARY KEY (`id_cadastrar_mensagem`),
-  KEY `fk_id_tipo_mensagem_cadastro_idx` (`idtipo_mensagem`),
   KEY `fk_email_cadastro_idx` (`email`),
-  CONSTRAINT `fk_email_cadastro` FOREIGN KEY (`email`) REFERENCES `usuarios` (`email`),
-  CONSTRAINT `fk_id_tipo_mensagem_cadastro` FOREIGN KEY (`idtipo_mensagem`) REFERENCES `tipo_mensagem` (`idtipo_mensagem`)
-) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+  CONSTRAINT `fk_email_cadastro` FOREIGN KEY (`email`) REFERENCES `usuarios` (`email`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -41,7 +39,6 @@ CREATE TABLE `cadastrar_mensagem` (
 
 LOCK TABLES `cadastrar_mensagem` WRITE;
 /*!40000 ALTER TABLE `cadastrar_mensagem` DISABLE KEYS */;
-INSERT INTO `cadastrar_mensagem` VALUES (1,'antocar@antocar.antocar','eu sou um antocar e prego a fisolofia antocaniana',1),(2,'gabriel@gabriel','gabriel gabriel gabriel biel',1);
 /*!40000 ALTER TABLE `cadastrar_mensagem` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -157,18 +154,15 @@ DROP TABLE IF EXISTS `mensagem`;
 /*!50503 SET character_set_client = utf8mb4 */;
 CREATE TABLE `mensagem` (
   `idmensagem` int NOT NULL AUTO_INCREMENT,
-  `id_tipo_mensagem` int NOT NULL,
   `id_chat` int NOT NULL,
   `texto` varchar(255) NOT NULL,
   `email` varchar(255) NOT NULL,
   `data` datetime NOT NULL DEFAULT CURRENT_TIMESTAMP,
   PRIMARY KEY (`idmensagem`),
-  KEY `fk_id_tipo_mensagem_idx` (`id_tipo_mensagem`),
   KEY `fk_id_chat_mensagem_idx` (`id_chat`),
   KEY `fk_email_idx` (`email`),
   CONSTRAINT `fk_email` FOREIGN KEY (`email`) REFERENCES `usuarios` (`email`),
-  CONSTRAINT `fk_id_chat_mensagem` FOREIGN KEY (`id_chat`) REFERENCES `chat` (`idchat`),
-  CONSTRAINT `fk_id_tipo_mensagem` FOREIGN KEY (`id_tipo_mensagem`) REFERENCES `tipo_mensagem` (`idtipo_mensagem`)
+  CONSTRAINT `fk_id_chat_mensagem` FOREIGN KEY (`id_chat`) REFERENCES `chat` (`idchat`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
@@ -206,30 +200,6 @@ INSERT INTO `perfil` VALUES (1,'Cliente'),(2,'Suporte'),(3,'Adiministrador');
 UNLOCK TABLES;
 
 --
--- Table structure for table `tipo_mensagem`
---
-
-DROP TABLE IF EXISTS `tipo_mensagem`;
-/*!40101 SET @saved_cs_client     = @@character_set_client */;
-/*!50503 SET character_set_client = utf8mb4 */;
-CREATE TABLE `tipo_mensagem` (
-  `idtipo_mensagem` int NOT NULL AUTO_INCREMENT,
-  `tipo_mensagem` varchar(255) NOT NULL,
-  PRIMARY KEY (`idtipo_mensagem`)
-) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
-/*!40101 SET character_set_client = @saved_cs_client */;
-
---
--- Dumping data for table `tipo_mensagem`
---
-
-LOCK TABLES `tipo_mensagem` WRITE;
-/*!40000 ALTER TABLE `tipo_mensagem` DISABLE KEYS */;
-INSERT INTO `tipo_mensagem` VALUES (1,'email'),(2,'sistema');
-/*!40000 ALTER TABLE `tipo_mensagem` ENABLE KEYS */;
-UNLOCK TABLES;
-
---
 -- Table structure for table `usuarios`
 --
 
@@ -256,7 +226,7 @@ CREATE TABLE `usuarios` (
 
 LOCK TABLES `usuarios` WRITE;
 /*!40000 ALTER TABLE `usuarios` DISABLE KEYS */;
-INSERT INTO `usuarios` VALUES ('adm@adm.com','adm','adms','','',3),('antocar@antocar.antocar','Antiniól','Antocar','cliente','antocar ',1),('asdasd@asdasd','asdsa','asdsa','cliente','asd',1),('bomboasl@oapks','bom','bomzinhos','suporte','dereg',2),('gabriel@gabriel','gabriel','lear','cliente','abacate',1),('usuario@usuario.com','usuario','usuarios','','',1);
+INSERT INTO `usuarios` VALUES ('adm@adm.com','adm','adms','','',3),('antocar@antocar.antocar','Antiniól','Antocar','cliente','antocar ',1),('asdasd@asdasd','asdsa','asdsa','cliente','asd',1),('bomboasl@oapks','bom','bomzinhos','suporte','dereg',2),('gabriel@gabriel','gabriel','lear','cliente','abacate',1),('gabrielcoutinho2011@gmail.com','Gabriel ','Lear','suporte','kaisen',2),('marcelo@lear.com','Marcelo','Lear','cliente','kaisen',1),('usuario@usuario.com','usuario','usuarios','','',1);
 /*!40000 ALTER TABLE `usuarios` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
@@ -269,4 +239,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2022-04-07  9:25:57
+-- Dump completed on 2022-04-07 10:35:01
