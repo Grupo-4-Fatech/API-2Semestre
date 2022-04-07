@@ -5,7 +5,8 @@ Projeto desenvolvido por alunos do segundo semestre do curso de análise e desen
 
 Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 2° semestre do curso de Análise e Desenvolvimento de Sistemas da FATEC de São José dos Campos. Esse grupo tem como objetivo desenvolver um projeto (API) para solucionar um problema proposto por um cliente parceiro da instituição.
 <br></br>
-![1](https://user-images.githubusercontent.com/88494278/162094336-79dae834-aef4-4d35-89af-075400e1a3af.png)
+![1](https://user-images.githubusercontent.com/88494278/162101244-e190f18d-7dd6-40a4-b548-803e09055355.jpg)
+
 > Status do Projeto: Em Desenvolvimento.
 
 </br>
@@ -42,13 +43,15 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 2° semestre 
 - **Front-end:** JFrame.
 - **Ferramentas:** Netbeans, Eclipse, Canva, Git, Github, PowerPoint, MySQL, Microsoft Teams e Discord.
 
-![2](https://user-images.githubusercontent.com/88494278/162094456-f1ac170c-9193-46ce-965f-d5e295e0b856.png)
+![2](https://user-images.githubusercontent.com/88494278/162101277-a6b5b019-a550-4624-a332-f58a5cc34fd7.jpg)
+
 
 
 </br>
 
 ## 💡 Metodologia
 <ul> <li> <strong>Metodologia Ágil: SCRUM </strong> </li> </ul>
+![3](https://user-images.githubusercontent.com/88494278/162101308-2ef2f26e-ed1a-4592-b872-a14cb8e8803d.jpg)
 </br>
 
 ## 🗒️ Sprints Backlog
