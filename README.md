@@ -14,7 +14,7 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 2° semestre 
 ## 🎯 Proposta
 **Desenvolver um sistema de armazenamento com os seguintes requisitos:**
 > Requisitos Funcionais
-- [ ] Cadastros de Usuários, Clientes e Grupos;
+- [X] Cadastros de Usuários, Clientes e Grupos;
 - [ ] Usuários devem ter perfis diferentes (administrador,suporte, cliente);
 - [x] Possibilidade de um administrador ou suporte cadastrar mensagens em nome de um cliente e marcar qual meio ela veio (email, whatsapp e etc);
 - [ ] Envio de mensagens individuais para um usuário do sistema;
@@ -22,15 +22,14 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 2° semestre 
 - [ ] Relatório de pessoas ou grupos a quem mais enviei mensagens.
 
 > Requisitos Não Funcionais
-- [ ] Requisitos Não Funcionais:
-- [ ] Linguagem Java Desktop
-- [ ] SGBD MySQL 
+- [X] Linguagem Java Desktop
+- [X] SGBD MySQL 
 - [ ] Documentações
 
 
  ## Cronograma das Sprints
  - - [X] **Kick-off** - 25/03/2022
- - - [ ] **1° Sprint:** 25/03/2022 a 14/04/2022
+ - - [ ] <a href="https://github.com/Grupo-4-Fatech/API-2Semestre/tree/main/Sprint%201">**1° Sprint:**</a> 25/03/2022 a 14/04/2022
  - - [ ] **2° Sprint:** 25/04/2022 a 15/05/2022
  - - [ ] **3° Sprint:** 16/05/2022 a 05/06/2022
  - - [ ] **Feira de Soluções:** 15/06/2022
@@ -59,7 +58,8 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 2° semestre 
 
 ## 🗒️ Sprints Backlog
 
-![4](https://user-images.githubusercontent.com/88494278/162200233-21359f89-dbde-42ec-b952-5b3307ce8e42.jpg)
+![4](https://user-images.githubusercontent.com/88494278/163394761-81151bac-b874-40d9-b940-8ed48d74e76a.png)
+
 
 
 </br>

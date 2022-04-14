@@ -1,3 +1,5 @@
+CREATE DATABASE  IF NOT EXISTS `bd_api` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci */ /*!80016 DEFAULT ENCRYPTION='N' */;
+USE `bd_api`;
 -- MySQL dump 10.13  Distrib 8.0.28, for Win64 (x86_64)
 --
 -- Host: localhost    Database: bd_api
@@ -226,7 +228,6 @@ CREATE TABLE `usuarios` (
 
 LOCK TABLES `usuarios` WRITE;
 /*!40000 ALTER TABLE `usuarios` DISABLE KEYS */;
-INSERT INTO `usuarios` VALUES ('adm@adm.com','adm','adms','','',3),('antocar@antocar.antocar','Antiniól','Antocar','cliente','antocar ',1),('asdasd@asdasd','asdsa','asdsa','cliente','asd',1),('bomboasl@oapks','bom','bomzinhos','suporte','dereg',2),('gabriel@gabriel','gabriel','lear','cliente','abacate',1),('gabrielcoutinho2011@gmail.com','Gabriel ','Lear','suporte','kaisen',2),('marcelo@lear.com','Marcelo','Lear','cliente','kaisen',1),('usuario@usuario.com','usuario','usuarios','','',1);
 /*!40000 ALTER TABLE `usuarios` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
@@ -239,4 +240,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2022-04-07 10:35:01
+-- Dump completed on 2022-04-09 18:59:37
