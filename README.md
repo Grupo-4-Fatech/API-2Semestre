@@ -14,7 +14,7 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 2° semestre 
 ## 🎯 Proposta
 **Desenvolver um sistema de armazenamento com os seguintes requisitos:**
 > Requisitos Funcionais
-- [ ] Cadastros de Usuários, Clientes e Grupos;
+- [X] Cadastros de Usuários, Clientes e Grupos;
 - [ ] Usuários devem ter perfis diferentes (administrador,suporte, cliente);
 - [x] Possibilidade de um administrador ou suporte cadastrar mensagens em nome de um cliente e marcar qual meio ela veio (email, whatsapp e etc);
 - [ ] Envio de mensagens individuais para um usuário do sistema;
@@ -22,9 +22,8 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 2° semestre 
 - [ ] Relatório de pessoas ou grupos a quem mais enviei mensagens.
 
 > Requisitos Não Funcionais
-- [ ] Requisitos Não Funcionais:
-- [ ] Linguagem Java Desktop
-- [ ] SGBD MySQL 
+- [X] Linguagem Java Desktop
+- [X] SGBD MySQL 
 - [ ] Documentações
 
 
