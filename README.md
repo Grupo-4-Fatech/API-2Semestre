@@ -60,9 +60,14 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 2° semestre 
 
 ![4](https://user-images.githubusercontent.com/88494278/163394761-81151bac-b874-40d9-b940-8ed48d74e76a.png)
 
-
-
 </br>
+
+## 📉 Gráfico Burndown
+![Burndown Sprint1_page-0001](https://user-images.githubusercontent.com/89141910/163406582-cdd792c7-93f0-4fc0-84e4-34925ae0559a.jpg)
+![Burndown Sprint1_page-0002](https://user-images.githubusercontent.com/89141910/163406594-6e60ced2-bd78-4fb3-b099-3d6dc8cace33.jpg)
+
+
+
 
 ## 📗 Manual do Usuário
 </br>
