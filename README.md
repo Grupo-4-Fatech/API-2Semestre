@@ -58,7 +58,8 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 2° semestre 
 
 ## 🗒️ Sprints Backlog
 
-![4](https://user-images.githubusercontent.com/88494278/162200233-21359f89-dbde-42ec-b952-5b3307ce8e42.jpg)
+![4](https://user-images.githubusercontent.com/88494278/163394761-81151bac-b874-40d9-b940-8ed48d74e76a.png)
+
 
 
 </br>
