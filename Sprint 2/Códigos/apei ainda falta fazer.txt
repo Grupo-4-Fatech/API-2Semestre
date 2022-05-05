@@ -1,0 +1,35 @@
+
+
+-------------------------------------------------------------
+2° Sprint
+
+- Validação Backlog --
+- Atualização do banco de dados                        --ok
+- telas cliente                                        --ok
+- criação do chat                                      --ok
+- ligação do chat com o banco de dados                 --a fazer
+- alterar usuario                                      --ok
+- deletar usuario                                    -- feito na 1°sprint
+- alterar mensagem                                     --ok
+- deletar mensagem                                   -- feito na 1°sprint
+- tela de login                                        --ok
+- dropdown list do cadastro de usuario id_perfil       --ok
+- documentação                                         --a fzer
+	- arrumar git
+	- gravar gifs
+	- montar apresentação 
+
+-----------------------------------------------
+
+3° Sprint
+
+- cadastro de grupo
+- alterar grupo
+- deletar grupo 
+- consultar grupos
+- Relatório de pessoas ou grupos a quem mais enviei mensagens
+- Relatório de tempo médio de respostas das mensagens
+- Histórico de mensagens
+- Download dos relatorios em PDF
+- definicao das permissoes de cada usuario
+
