@@ -81,6 +81,7 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 2° semestre 
 | Antônio Barbosa | Desenvolvedor| <a href="https://github.com/Antonio-Barbosa" target="_blank">Github</a> | <a href="https://www.linkedin.com/in/antonio-marcelo-9a5b68181" target="_blank">Link</a>|
 | Dionísio Leão   | Product Owner| <a href="https://github.com/dsslleagion" target="_blank">Github</a> | <a href="https://www.linkedin.com/in/dionisio-samuel-dos-santos-le%C3%A3o-616848226/" target="_blank">Link</a>|
 | Gabriel Coutinho| Desenvolvedor| <a href="https://github.com/Gabriel-Coutinho0" target="_blank">Github</a> | <a href="https://www.linkedin.com/in/gabriel-silva-b778a31aa" target="_blank">Link</a>|
+| Everton Ricardo | Desenvolvedor| <a href="https://github.com/Evertonrwr" target="_blank">Github</a> | <a href="https://www.linkedin.com/in/everton-rocha-1a456b20b" target="_blank">Link</a>|
 
 <br>
 
