@@ -42,7 +42,8 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 2° semestre 
 - **Front-end:** JFrame.
 - **Ferramentas:** Netbeans, Eclipse, Canva, Git, Github, PowerPoint, MySQL, Microsoft Teams e Discord.
 
-![2](https://user-images.githubusercontent.com/88494278/162101277-a6b5b019-a550-4624-a332-f58a5cc34fd7.jpg)
+![2](![2](https://user-images.githubusercontent.com/88494278/171483398-8f15c5d3-9f8c-4b2c-bf2e-3e1c5ccbe492.png)
+)
 
 
 
