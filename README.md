@@ -31,7 +31,7 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 2° semestre 
  - - [X] **Kick-off** - 25/03/2022
  - - [X] <a href="https://github.com/Grupo-4-Fatech/API-2Semestre/tree/main/Sprint%201">**1° Sprint:**</a> 25/03/2022 a 14/04/2022
  - - [X] <a href="https://github.com/Grupo-4-Fatech/API-2Semestre/tree/main/Sprint%202">**2° Sprint:**</a> 25/04/2022 a 15/05/2022
- - - [X] **3° Sprint:** 16/05/2022 a 05/06/2022
+ - - [X] <a href="https://github.com/Grupo-4-Fatech/API-2Semestre/tree/main/Sprint%203">**3° Sprint:** 16/05/2022 a 05/06/2022
  - - [ ] **Feira de Soluções:** 15/06/2022
 
  </br>
