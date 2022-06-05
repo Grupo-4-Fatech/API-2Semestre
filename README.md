@@ -72,6 +72,7 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 2° semestre 
 - <a href="https://github.com/Grupo-4-Fatech/API-2Semestre/blob/main/Sprint%203/Documenta%C3%A7%C3%A3o/Burndown%20da%20Sprint%203.pdf">**Sprint 3**</a>
 
 ## 📗 Manual do Usuário
+- <a href="- <a href="https://github.com/Grupo-4-Fatech/API-2Semestre/blob/main/Sprint%203/Documenta%C3%A7%C3%A3o/Burndown%20da%20Sprint%203.pdf">**Sprint 3**</a>">**Manual do Usuário**</a>
 </br>
 
 ## 👥 Equipe
